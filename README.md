@@ -1,4 +1,8 @@
 # bomb-dashboard-saipraneeth
+Install modules:
+```bash
+npm install
+```
 First, run the development server:
 
 ```bash
